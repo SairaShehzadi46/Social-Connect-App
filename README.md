@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -101,3 +102,6 @@ To learn more about React Native, take a look at the following resources:
 My first project in internship.
 I m Saira Shehzadi.
 >>>>>>> 7419fc0a028beb71169f2a80cf26d89f565579ac
+=======
+My First Project in Internship.
+>>>>>>> d4c913028c63fed736426453618ad6870f6d92ef
