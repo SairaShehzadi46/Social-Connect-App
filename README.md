@@ -105,3 +105,19 @@ I m Saira Shehzadi.
 =======
 My First Project in Internship.
 >>>>>>> d4c913028c63fed736426453618ad6870f6d92ef
+>>>>>>> Social Connect App
+
+Features:
+- User Authentication
+- Profile Management
+- Create Posts
+- Like & Comment System
+- Notifications
+- Real-time Updates
+
+Technology:
+- React Native
+- Firebase
+- React Navigation
+- Context API
+- 
